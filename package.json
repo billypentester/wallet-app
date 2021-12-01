@@ -1,0 +1,20 @@
+{
+  "name": "importdapps.com_bilalsheikh2500_gmail.com_en6dvnq4aa_backup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "axois": "^0.0.1-security",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "nodemailer": "^6.7.0"
+  }
+}
